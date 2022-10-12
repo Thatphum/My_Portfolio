@@ -6,7 +6,7 @@
     class="flex flex-col m-auto place-items-center place-content-center py-10 z-0 pt-24"
     id="aboutme"
   >
-    <h2 class="text-6xl pb-8 text-color-main font">About Me</h2>
+    <h2 class="text-5xl md:text-6xl pb-8 text-color-main font">About Me</h2>
     <img
       src="../assets/imgs/Aboutme.jpg"
       alt="profile"

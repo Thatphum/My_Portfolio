@@ -96,7 +96,7 @@
         </div>
         <div class="px-4 py-6">
           <h1 class="text-3xl">Devops Developer</h1>
-          <p class="py-2 w-5/6 flex mx-auto font-mono text-center break-words">
+          <p class="py-2 font-mono">
             Good knowledge of infra deploying and writing docker in
             docker-compose.
           </p>

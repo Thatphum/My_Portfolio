@@ -5,7 +5,7 @@
     <div>
       <div class="flex justify-center font mb-10">
         <div class="text-center">
-          <h1 class="text-3xl md:text-5xl text-color-main">Certificate</h1>
+          <h1 class="text-5xl md:text-6xl text-color-main">Certificate</h1>
         </div>
       </div>
       <div class="columns-1 md:columns-3 text-center">
