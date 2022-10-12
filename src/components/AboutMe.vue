@@ -22,7 +22,7 @@
         developer to help me improve myself as much as possible. and want new
         knowledge from mentors or techniques that cannot be found anywhere
         Including systematic work from a well-known company in the country's
-        leading IT service providers.
+        leading IT service providers. 
       </p>
     </div>
   </div>
