@@ -13,7 +13,10 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a href="../assets/Certificate/Arts2019.jpg" target="_blank">
+            <a
+              href="https://drive.google.com/file/d/1oWbX1LpXZfQNsYA566vwS7eWxL5mBT4b/view?usp=sharing"
+              target="_blank"
+            >
               <img
                 alt="Placeholder"
                 class="block h-auto w-full bg-repeat"
@@ -41,11 +44,16 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <img
-              alt="Placeholder"
-              class="block h-auto w-full bg-repeat"
-              src="../assets/Certificate/Wro2019.jpg"
-            />
+            <a
+              href="https://drive.google.com/file/d/13pfCbWZrYpsL4aI4j9TZlMmheFjOmLka/view?usp=sharing"
+              target="_blank"
+            >
+              <img
+                alt="Placeholder"
+                class="block h-auto w-full bg-repeat"
+                src="../assets/Certificate/Wro2019.jpg"
+              />
+            </a>
 
             <div class="p-4">
               <h3 class="mb-2 text-xl">
@@ -67,7 +75,10 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a href="../assets/Certificate/Arts2018.jpg">
+            <a
+              href="https://drive.google.com/file/d/1lurCsU8Kj9LptRmBGovLODV-jju9ak4V/view?usp=sharing"
+              target="_blank"
+            >
               <img
                 alt="Placeholder"
                 class="block h-auto w-full"
@@ -95,7 +106,10 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a href="#">
+            <a
+              href="https://drive.google.com/file/d/1j3Xsw8cVgD-1R7taiEdSktjeOw3rn-i0/view?usp=sharing"
+              target="_blank"
+            >
               <img
                 alt="Placeholder"
                 class="block h-auto w-full"
@@ -122,7 +136,10 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a href="#">
+            <a
+              href="https://drive.google.com/file/d/1OixFvrnYMaRkO4vq6muG01Mdi0E8vOMC/view?usp=sharing"
+              target="_blank"
+            >
               <img
                 alt="Placeholder"
                 class="block h-auto w-full"
@@ -148,7 +165,10 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a href="#">
+            <a
+              href="https://drive.google.com/file/d/1VGpv9gr96-k1JinoR9qrMeSJv84Dp9Cm/view?usp=sharing"
+              target="_blank"
+            >
               <img
                 alt="Placeholder"
                 class="block h-auto w-full"
@@ -174,7 +194,10 @@
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a href="#">
+            <a
+              href="https://drive.google.com/file/d/1YzakciAfKuXG4VS_AQqxzHBfwzxCpIkY/view?usp=sharing"
+              target="_blank"
+            >
               <img
                 alt="Placeholder"
                 class="block h-auto w-full"
