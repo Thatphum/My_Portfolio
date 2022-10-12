@@ -8,7 +8,7 @@
   >
     <h2 class="text-6xl pb-8 text-color-main font">About Me</h2>
     <img
-      src="../assets/Profile/Profile.jpg"
+      src="../assets/imgs/Aboutme.jpg"
       alt="profile"
       class="w-1/3 md:w-2/12 bg-no-repeat rounded-2xl shadow-2xl border border-gray-100 shadow-sm"
     />
@@ -22,7 +22,7 @@
         developer to help me improve myself as much as possible. and want new
         knowledge from mentors or techniques that cannot be found anywhere
         Including systematic work from a well-known company in the country's
-        leading IT service providers. 
+        leading IT service providers.
       </p>
     </div>
   </div>
