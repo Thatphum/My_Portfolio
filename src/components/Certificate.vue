@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="container my-12 mx-auto px-4 md:px-12 py-20" id="certificate">
+  <div class="container my-12 mx-auto px-4 md:px-12 pt-20" id="certificate">
     <div>
       <div class="flex justify-center font mb-10">
         <div class="text-center">
@@ -30,8 +30,8 @@
               </h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
                 <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp Received a silver medal from a
-                  middle-level robot competition activity.
+                  Received a silver medal from a middle-level robot competition
+                  activity.
                 </p>
               </div>
             </div>
@@ -41,7 +41,7 @@
         <!-- END Column -->
 
         <!-- Column -->
-        <div class="my-1 w-3/4 md:w-full mx-auto">
+        <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
             <a
@@ -60,10 +60,7 @@
                 World Robot Olympiad Thailand 2019 | Region level
               </h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
-                <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp 2nd Runner-up Award , Rugular
-                  Sernior
-                </p>
+                <p>2nd Runner-up Award , Rugular Sernior</p>
               </div>
             </div>
           </article>
@@ -72,7 +69,7 @@
         <!-- END Column -->
 
         <!-- Column -->
-        <div class="my-1 w-3/4 md:w-full mx-auto">
+        <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
             <a
@@ -92,8 +89,8 @@
               </h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
                 <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp Received a gold medal from a
-                  middle-level robot competition activity.
+                  Received a gold medal from a middle-level robot competition
+                  activity.
                 </p>
               </div>
             </div>
@@ -103,7 +100,7 @@
         <!-- END Column -->
 
         <!-- Column -->
-        <div class="my-1 w-3/4 md:w-full mx-auto">
+        <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
             <a
@@ -123,8 +120,8 @@
               </h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
                 <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp Received a gold medal from a
-                  high-level robot competition activity.
+                  Received a gold medal from a high-level robot competition
+                  activity.
                 </p>
               </div>
             </div>
@@ -133,7 +130,7 @@
         </div>
         <!-- END Column -->
         <!-- Column -->
-        <div class="my-1 w-3/4 md:w-full mx-auto">
+        <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
             <a
@@ -150,10 +147,7 @@
             <div class="p-4">
               <h3 class="mb-2 text-xl">World Robot Olympiad Thailand 2018</h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
-                <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp 4th Runner-up Award , Rugular
-                  Sernior
-                </p>
+                <p>4th Runner-up Award , Rugular Sernior</p>
               </div>
             </div>
           </article>
@@ -162,7 +156,7 @@
         <!-- END Column -->
 
         <!-- Column -->
-        <div class="my-1 w-3/4 md:w-full mx-auto">
+        <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
             <a
@@ -179,10 +173,7 @@
             <div class="p-4">
               <h3 class="mb-2 text-xl">World Robot Olympiad Thailand 2017</h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
-                <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp 9th Runner-up Award , Rugular
-                  Sernior
-                </p>
+                <p>9th Runner-up Award , Rugular Sernior</p>
               </div>
             </div>
           </article>
@@ -191,7 +182,7 @@
         <!-- END Column -->
 
         <!-- Column -->
-        <div class="my-1 w-3/4 md:w-full mx-auto">
+        <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
             <a
@@ -210,10 +201,7 @@
                 World Robot Olympiad Thailand 2017 | Region level
               </h3>
               <div class="mb-2 text-grey-darker text-sm flex-1">
-                <p>
-                  &nbsp &nbsp &nbsp &nbsp &nbsp 3rd Runner-up Award , Rugular
-                  Sernior
-                </p>
+                <p>3rd Runner-up Award , Rugular Sernior</p>
               </div>
             </div>
           </article>

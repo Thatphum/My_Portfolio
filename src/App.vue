@@ -18,18 +18,18 @@ import Certificate from './components/Certificate.vue';
       <!-- content -->
       <main class="w-full pb-4">
         <Home />
-
-        <!-- <span
-          class="inline-flex px-2 py-0 rounded mb-8 text-xs uppercase bg-indigo-200 text-indigo-600 font-semibold"
-          >Scroll down</span
-        > -->
-        <!-- 
-        <p class="mb-8 text-sm text-gray-600">
-          Made with TailwindCSS & Alpine.js.
-        </p> -->
         <AboutMe />
         <Skill />
         <WorkExperience />
+        <hr
+          class="mb-5 h-10"
+          style="
+            height: 1px;
+            border-width: 0;
+            color: gray;
+            background-color: gray;
+          "
+        />
         <Certificate />
       </main>
     </div>
