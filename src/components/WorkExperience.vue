@@ -4,7 +4,9 @@
   <div class="py-20" id="experience">
     <div class="flex justify-center font">
       <div class="text-center">
-        <h1 class="text-5xl md:text-6xl text-color-main">Work Experience</h1>
+        <h1 class="text-5xl md:text-6xl text-color-main px-2">
+          Work Experience
+        </h1>
       </div>
     </div>
     <!-- start -->
