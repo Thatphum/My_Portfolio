@@ -77,6 +77,13 @@ function scrollFunction() {
               >Certificate</a
             >
           </li>
+          <li>
+            <a
+              class="md:p-4 py-2 lg:block hidden hover:text-purple-400"
+              href="#contact"
+              >Contact</a
+            >
+          </li>
         </ul>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -114,6 +121,9 @@ function scrollFunction() {
             </a>
             <a href="#certificate" class="py-3" @click="clickContent()">
               Certificate
+            </a>
+            <a href="#contact" class="py-3" @click="clickContent()">
+              Contact
             </a>
           </div>
           <div class="flex justify-center pt-14" @click="clickContent()">

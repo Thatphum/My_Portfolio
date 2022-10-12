@@ -2,7 +2,7 @@
 
 <template>
   <footer>
-    <div class="justify-center items-center">
+    <div class="justify-center items-center" id="contact">
       <div
         class="flex items-center justify-evenly sm:justify-between flex-col sm:flex-row sm:px-[30px] md:px-[40px] lg:px-[50px] xl:px-[75px] w-full h-[100px] md:h-[65px] bg-sky-400 font-bold"
       >
