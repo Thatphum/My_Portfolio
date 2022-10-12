@@ -8,7 +8,7 @@
   >
     <h2 class="text-6xl pb-8 text-color-main font">About Me</h2>
     <img
-      src="../assets/Profile/Profile.JPG"
+      src="../assets/Profile/Profile.jpg"
       alt="profile"
       class="w-1/3 md:w-2/12 bg-no-repeat rounded-2xl shadow-2xl border border-gray-100 shadow-sm"
     />
