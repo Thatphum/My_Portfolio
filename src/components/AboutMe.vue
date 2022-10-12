@@ -13,7 +13,7 @@
       class="w-1/3 md:w-2/12 bg-no-repeat rounded-2xl shadow-2xl border border-gray-100 shadow-sm"
     />
 
-    <div class="py-4 text-center w-1/2 md:w-1/2">
+    <div class="py-4 text-center w-3/4 md:w-1/2">
       <p class="text-lg font-light">
         I am a university student at King Mongkut's University of Technology
         Thonburi (KMUTT), Bachelor of Science Programme in Information

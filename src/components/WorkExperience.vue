@@ -14,14 +14,14 @@
       <img
         src="../assets/Work/Oasip.png"
         alt="ModExchange"
-        class="w-3/4 md:w-1/3 rounded-lg shadow-2xl"
+        class="w-3/4 md:w-1/3 rounded-lg shadow-md md:shadow-2xl"
       />
       <div class="py-2 text-center md:text-left w-2/3 md:w-1/4 md:pl-14">
         <h2 class="text-2xl font-bold">
           Online Appointment Scheduling System for Integrated Project Clinics
           (OASIP)
         </h2>
-        <p class="text-md font-light">
+        <p class="text-md font-light pt-2">
           This web application is about the online application and I am
           responsible for creating and developing this website in full stack
           development.As part of the INT 221 and INT 222 course.
@@ -45,7 +45,7 @@
     >
       <div class="py-2 text-center md:text-right w-2/3 md:w-1/4 md:pr-14">
         <h2 class="text-2xl font-bold">Kashino125</h2>
-        <p class="text-md font-light">
+        <p class="text-md font-light pt-2">
           This web application is about pokdeng game, and I am responsible for
           creating the logic of a game. This website is developed by the vuejs
           framework and JSON server. This is a good development tool.As part of
@@ -65,7 +65,7 @@
       <img
         src="../assets/Work/Kashino.png"
         alt="ModExchange"
-        class="w-3/4 md:w-1/3 rounded-lg shadow-2xl"
+        class="w-3/4 md:w-1/3 rounded-lg shadow-md md:shadow-2xl"
       />
     </div>
     <!-- end -->
@@ -76,11 +76,11 @@
       <img
         src="../assets/Work/ModExchange.png"
         alt="ModExchange"
-        class="w-3/4 md:w-1/3 rounded-lg shadow-2xl"
+        class="w-3/4 md:w-1/3 rounded-lg shadow-md md:shadow-2xl"
       />
       <div class="py-2 text-center md:text-left w-2/3 md:w-1/4 md:pl-14">
         <h2 class="text-2xl font-bold">ModExchange</h2>
-        <p class="text-md font-light">
+        <p class="text-md font-light pt-2">
           This web application is about currency exchange rates.I am responsible
           for structuring the website and keeping the overview of the web in the
           right direction. As part of the INT 203 course.
@@ -105,7 +105,7 @@
     >
       <div class="py-2 text-center md:text-right w-2/3 md:w-1/4 md:pr-14">
         <h2 class="text-2xl font-bold">Emergency Core</h2>
-        <p class="text-md font-light">
+        <p class="text-md font-light pt-2">
           WireFrame is because it needs to collect some different agencies in
           this application in case of emergency.
         </p>
