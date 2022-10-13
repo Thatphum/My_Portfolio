@@ -230,87 +230,105 @@
               <div
                 class="flex flex-col md:flex-row flex-wrap place-content-center pt-2 text-left font-mono"
               >
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/Apache_NetBeans_Logo.png"
                     alt="netBeans"
-                    class="w-14 h-16 md:w-18 md:h-22 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-12 md:w-12 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Netbeans</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/icons8-intellij-idea-240.png"
                     alt="intellij"
-                    class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Intellij</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/postman-icon.png"
                     alt="postman"
-                    class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Postman</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/Vscode_icon_130084.png"
                     alt="vscode"
-                    class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Visual Studio</p>
                   </div>
                 </div>
 
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/PuTTY_icon_128px.png"
                     alt="putty"
-                    class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Putty</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/mysqlworkbench_93532.png"
                     alt="workbench"
-                    class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Mysql Workbench</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/Trello_icon-icons.com_66775.png"
                     alt="trello"
-                    class="w-12 h-12 md:w-18 md:h-18 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Trello</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4">
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/clickup.png"
                     alt="clickup"
-                    width="30"
-                    height="30"
-                    class="w-14 h-14 md:w-20 md:h-20 drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Click up</p>
+                  </div>
+                </div>
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                  <img
+                    src="../assets/icons/Application_Skill/mongodb.png"
+                    alt="mongodb"
+                    class="w-14 md:w-18 h-auto drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                  />
+                  <div>
+                    <p class="text-lg">MongoDB</p>
+                  </div>
+                </div>
+                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                  <img
+                    src="../assets/icons/Application_Skill/icons8-old-vmware-logo-240.png"
+                    alt="vmware"
+                    class="w-14 md:w-18 h-auto drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                  />
+                  <div>
+                    <p class="text-lg">VMware</p>
                   </div>
                 </div>
               </div>
