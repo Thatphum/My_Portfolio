@@ -24,9 +24,22 @@
           (OASIP)
         </h2>
         <p class="text-md font-light pt-2">
-          This web application is about the online application and I am
-          responsible for creating and developing this website in full stack
-          development.As part of the INT 221 and INT 222 course.
+          This web application is about online application and my responsible is
+          full-stack develop. both designing web, all parts of Backend using
+          java and Spring framework, Frontend create from WireFrame and do CRUD
+          by using Vuejs and Tailwind, Databases do about the design of
+          relational databases, DevOps make deploy to product server with Docker
+          (Docker-compose) and work with agile and scrum. As part of the INT 221
+          and INT 222 courses.
+
+          <!-- This web application is about the online application and my
+          responsible is full-stack develop , frontend by using Vue and Tailwind
+          ,backend by using java spring boot create endpoint and make
+          authentication and authorization , database about design a relation
+          database and DevOps using docker 
+           by using for creating and developing
+          this website in full stack development.As part of the INT 221 and INT
+          222 course. -->
         </p>
         <div class="pt-8">
           <a
@@ -48,9 +61,9 @@
       <div class="py-2 text-center md:text-right w-2/3 md:w-1/4 md:pr-14">
         <h2 class="text-2xl font-bold">Kashino125</h2>
         <p class="text-md font-light pt-2">
-          This web application is about pokdeng game, and I am responsible for
-          creating the logic of a game. This website is developed by the vuejs
-          framework and JSON server. This is a good development tool.As part of
+          This web application is about a pokdeng game, and I am responsible for
+          creating the logic of a game. This website is developed by the Vue
+          framework and JSON server. This is a good development tool. As part of
           the INT 203 course.
         </p>
         <div class="pt-8">
@@ -83,9 +96,10 @@
       <div class="py-2 text-center md:text-left w-2/3 md:w-1/4 md:pl-14">
         <h2 class="text-2xl font-bold">ModExchange</h2>
         <p class="text-md font-light pt-2">
-          This web application is about currency exchange rates.I am responsible
-          for structuring the website and keeping the overview of the web in the
-          right direction. As part of the INT 203 course.
+          This web application is about currency exchange rates.my responsible
+          is structuring the website , keeping the overview of the web in the
+          right direction and Design the website by using Vue daisyui and
+          tailwind. As part of the INT 203 course.
         </p>
         <div class="pt-8">
           <a
@@ -108,8 +122,8 @@
       <div class="py-2 text-center md:text-right w-2/3 md:w-1/4 md:pr-14">
         <h2 class="text-2xl font-bold">Emergency Core</h2>
         <p class="text-md font-light pt-2">
-          WireFrame is because it needs to collect some different agencies in
-          this application in case of emergency.
+          Design wireframe about emergency call application by using figma to
+          implement the design.
         </p>
         <div class="pt-8">
           <a
