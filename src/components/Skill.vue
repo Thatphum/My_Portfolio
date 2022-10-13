@@ -180,7 +180,7 @@
             </p>
             <span class="text-lg text-color-main">Languages :</span>
             <div class="flex flex-wrap place-content-center pt-2">
-              <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
+              <div class="grid grid-cols-1 place-items-center">
                 <img
                   src="../assets/icons/icons8-docker-240.png"
                   alt="docker"
@@ -188,18 +188,7 @@
                 />
                 <div>
                   <p class="text-lg">Docker :</p>
-                  <!-- <span class="font-mono text-md">Intermediate</span> -->
-                </div>
-              </div>
-              <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
-                <img
-                  src="../assets/icons/icons8-git-240.png"
-                  alt="git"
-                  class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
-                />
-                <div>
-                  <p class="text-lg">Git :</p>
-                  <!-- <span class="font-mono text-md">Intermediate</span> -->
+                  <span class="font-mono text-md">Beginer to Intermediate</span>
                 </div>
               </div>
             </div>
