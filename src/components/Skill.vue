@@ -294,7 +294,7 @@
                   <img
                     src="../assets/icons/Application_Skill/clickup.png"
                     alt="clickup"
-                    class="w-14 md:w-18 h-auto drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto shadow-2xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Click up</p>
@@ -304,7 +304,7 @@
                   <img
                     src="../assets/icons/Application_Skill/mongodb.png"
                     alt="mongodb"
-                    class="w-14 md:w-18 h-auto drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto shadow-2xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">MongoDB</p>
@@ -314,7 +314,7 @@
                   <img
                     src="../assets/icons/Application_Skill/icons8-old-vmware-logo-240.png"
                     alt="vmware"
-                    class="w-14 md:w-18 h-auto drop-shadow-xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto shadow-2xl transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">VMware</p>
@@ -334,5 +334,9 @@
 
 .myfont {
   font-family: 'Fredoka One', cursive;
+}
+
+.shadow-2xl {
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
 </style>
