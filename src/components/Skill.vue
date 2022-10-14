@@ -22,9 +22,7 @@
               Responsive like this site.
             </p>
             <span class="text-lg text-color-main">Languages :</span>
-            <div
-              class="grid grid-cols-1 lg:grid-cols-2 place-content-center pt-2"
-            >
+            <div class="flex flex-row flex-wrap place-content-center pt-2">
               <div class="grid grid-cols-1 place-items-center px-4 py-2">
                 <img
                   src="../assets/icons/icons8-css3-240.png"
@@ -80,7 +78,7 @@
                   <span class="font-mono text-md">Intermediate</span>
                 </div>
               </div>
-              <div class="grid grid-cols-1 place-items-center px-4 py-2">
+              <div class="grid grid-cols-1 place-items-center px-6 py-2">
                 <img
                   src="../assets/icons/icons8-react-240.png"
                   alt="react"
