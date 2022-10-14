@@ -102,7 +102,7 @@
         <!-- Column -->
         <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
-          <article class="overflow-auto rounded-lg shadow-lg">
+          <article class="overflow-y-auto rounded-lg shadow-lg">
             <a
               href="https://drive.google.com/file/d/1j3Xsw8cVgD-1R7taiEdSktjeOw3rn-i0/view?usp=sharing"
               target="_blank"
