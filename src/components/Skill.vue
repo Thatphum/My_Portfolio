@@ -290,9 +290,9 @@
                 </div>
                 <div class="flex flex-col place-items-center px-4 py-2">
                   <img
-                    src="../assets/icons/Application_Skill/Trello_icon-icons.com_66775.png"
+                    src="../assets/icons/Application_Skill/trello-logo.png"
                     alt="trello"
-                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-20 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Trello</p>
@@ -322,7 +322,7 @@
                   <img
                     src="../assets/icons/Application_Skill/icons8-old-vmware-logo-240.png"
                     alt="vmware"
-                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-20 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">VMware</p>
