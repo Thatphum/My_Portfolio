@@ -12,7 +12,7 @@
         <!-- Column -->
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
-          <article class="overflow-hidden rounded-lg shadow-lg">
+          <div class="overflow-scroll rounded-lg shadow-lg">
             <a
               href="https://drive.google.com/file/d/1oWbX1LpXZfQNsYA566vwS7eWxL5mBT4b/view?usp=sharing"
               target="_blank"
@@ -35,7 +35,7 @@
                 </p>
               </div>
             </div>
-          </article>
+          </div>
           <!-- END Article -->
         </div>
         <!-- END Column -->
