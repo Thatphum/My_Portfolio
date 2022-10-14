@@ -16,9 +16,11 @@
       <img
         src="../assets/Work/Oasip.png"
         alt="ModExchange"
-        class="w-3/4 md:w-1/3 rounded-lg shadow-md md:shadow-2xl"
+        class="w-3/4 lg:w-1/3 md:w-2/5 rounded-lg shadow-md md:shadow-2xl"
       />
-      <div class="py-2 text-center md:text-left w-2/3 md:w-1/4 md:pl-14">
+      <div
+        class="py-2 text-center md:text-left w-2/3 md:w-1/2 lg:w-1/4 md:pl-14"
+      >
         <h2 class="text-2xl font-bold">
           Online Appointment Scheduling System for Integrated Project Clinics
           (OASIP)
@@ -58,7 +60,9 @@
     <div
       class="flex flex-col flex-col-reverse md:flex-row m-auto place-items-center place-content-center pt-20"
     >
-      <div class="py-2 text-center md:text-right w-2/3 md:w-1/4 md:pr-14">
+      <div
+        class="py-2 text-center md:text-right w-2/3 md:w-1/2 lg:w-1/4 md:pr-14"
+      >
         <h2 class="text-2xl font-bold">Kashino125</h2>
         <p class="text-md font-light pt-2">
           This web application is about a pokdeng game, and I am responsible for
@@ -80,20 +84,22 @@
       <img
         src="../assets/Work/Kashino.png"
         alt="ModExchange"
-        class="w-3/4 md:w-1/3 rounded-lg shadow-md md:shadow-2xl"
+        class="w-3/4 lg:w-1/3 md:w-2/5 rounded-lg shadow-md md:shadow-2xl"
       />
     </div>
     <!-- end -->
     <!-- start -->
     <div
-      class="flex flex-col md:flex-row m-auto place-items-center place-content-center pt-10"
+      class="flex flex-col md:flex-row m-auto place-items-center place-content-center pt-20"
     >
       <img
         src="../assets/Work/ModExchange.png"
         alt="ModExchange"
-        class="w-3/4 md:w-1/3 rounded-lg shadow-md md:shadow-2xl"
+        class="w-3/4 lg:w-1/3 md:w-2/5 rounded-lg shadow-md md:shadow-2xl"
       />
-      <div class="py-2 text-center md:text-left w-2/3 md:w-1/4 md:pl-14">
+      <div
+        class="py-2 text-center md:text-left w-2/3 md:w-1/2 lg:w-1/4 md:pl-14"
+      >
         <h2 class="text-2xl font-bold">ModExchange</h2>
         <p class="text-md font-light pt-2">
           This web application is about currency exchange rates.my responsible
@@ -119,7 +125,9 @@
     <div
       class="flex flex-col flex-col-reverse md:flex-row m-auto place-items-center place-content-center pt-20"
     >
-      <div class="py-2 text-center md:text-right w-2/3 md:w-1/4 md:pr-14">
+      <div
+        class="py-2 text-center md:text-right w-2/3 md:w-1/2 lg:w-1/4 md:pr-14"
+      >
         <h2 class="text-2xl font-bold">Emergency Core</h2>
         <p class="text-md font-light pt-2">
           Design wireframe about emergency call application by using figma to
@@ -139,7 +147,7 @@
       <img
         src="../assets/Work/Emergency_core.png"
         alt="ModExchange"
-        class="w-1/2 md:w-1/6 rounded-lg"
+        class="w-1/2 md:w-1/5 lg:w-1/6 rounded-lg"
       />
     </div>
     <!-- end -->

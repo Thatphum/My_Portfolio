@@ -9,12 +9,12 @@
     <div class="flex place-content-center">
       <div class="flex place-content-center">
         <div
-          class="grid grid-cols-1 md:grid-cols-4 w-3/4 bg-white p-2 rounded-xl"
+          class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 w-3/4 bg-white p-2 rounded-xl"
         >
           <div
-            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 row-span-1 md:row-span-3"
+            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 row-span-1 md:row-span-2 col-span-2 md:col-span-1"
           >
-            <h1 class="text-3xl">Frontend Developer</h1>
+            <h1 class="text-3xl md:text-2xl lg:text-3xl">Frontend Developer</h1>
             <p
               class="py-2 w-5/6 flex mx-auto font-mono text-center break-words"
             >
@@ -23,7 +23,7 @@
             </p>
             <span class="text-lg text-color-main">Languages :</span>
             <div
-              class="grid grid-cols-1 md:grid-cols-2 place-content-center pt-2"
+              class="grid grid-cols-1 lg:grid-cols-2 place-content-center pt-2"
             >
               <div class="grid grid-cols-1 place-items-center px-4 py-2">
                 <img
@@ -105,9 +105,9 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
+            class="px-4 py-6 col-span-1 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0 col-span-2 md:col-span-1"
           >
-            <h1 class="text-3xl">Backend Developer</h1>
+            <h1 class="text-3xl md:text-2xl lg:text-3xl">Backend Developer</h1>
             <p
               class="py-2 w-5/6 flex mx-auto font-mono text-center break-words"
             >
@@ -141,12 +141,10 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
+            class="px-4 py-6 col-span-1 border-r-0 lg:border-r-4 border-slate-400/25 border-t-2 md:border-t-0 col-span-2 md:col-span-1"
           >
-            <h1 class="text-3xl">Database</h1>
-            <p
-              class="py-2 w-5/6 flex mx-auto font-mono text-center break-words"
-            >
+            <h1 class="text-3xl md:text-2xl lg:text-3xl">Database</h1>
+            <p class="py-2 flex mx-auto font-mono text-center break-words">
               Have knowledge and understanding of data storage Able to create a
               table (Table) to match the job as accurately as possible.
             </p>
@@ -178,8 +176,10 @@
               </div>
             </div>
           </div>
-          <div class="px-4 py-6 border-t-2 md:border-t-0">
-            <h1 class="text-3xl">Devops Developer</h1>
+          <div
+            class="px-4 py-6 border-t-2 md:border-t-0 col-span-2 lg:col-span-1 border-slate-400/25 border-t-4 md:border-t-4 lg:border-t-0"
+          >
+            <h1 class="text-3xl md:text-2xl lg:text-3xl">Devops Developer</h1>
             <p class="py-2 font-mono">
               Good knowledge of infra deploying and writing docker in
               docker-compose.
@@ -202,9 +202,9 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 md:col-span-3 border-slate-400/25 border-t-2 md:border-t-4"
+            class="px-4 py-6 col-span-2 md:col-span-3 border-slate-400/25 border-t-2 md:border-t-4"
           >
-            <h1 class="text-3xl">Technical Skills</h1>
+            <h1 class="text-3xl md:text-2xl lg:text-3xl">Technical Skills</h1>
             <div class="flex flex-wrap place-content-center pt-2">
               <div
                 class="flex flex-col flex-wrap place-content-center pt-2 text-left font-mono"
@@ -220,9 +220,9 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 md:col-span-3 border-t-2 md:border-t-4 border-slate-400/25"
+            class="px-4 py-6 col-span-2 md:col-span-4 border-t-2 md:border-t-4 border-slate-400/25"
           >
-            <h1 class="text-3xl">Application Skill</h1>
+            <h1 class="text-3xl md:text-2xl lg:text-3xl">Application Skill</h1>
             <div class="flex flex-wrap place-content-center pt-2">
               <div
                 class="flex flex-col md:flex-row flex-wrap place-content-center pt-2 text-left font-mono"
@@ -292,7 +292,7 @@
                   <img
                     src="../assets/icons/Application_Skill/trello-logo.png"
                     alt="trello"
-                    class="w-14 md:w-20 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Trello</p>
@@ -302,7 +302,7 @@
                   <img
                     src="../assets/icons/Application_Skill/clickup.png"
                     alt="clickup"
-                    class="w-14 md:w-20 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">Click up</p>
@@ -312,7 +312,7 @@
                   <img
                     src="../assets/icons/Application_Skill/mongodb.png"
                     alt="mongodb"
-                    class="w-14 md:w-20 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">MongoDB</p>
@@ -322,7 +322,7 @@
                   <img
                     src="../assets/icons/Application_Skill/icons8-old-vmware-logo-240.png"
                     alt="vmware"
-                    class="w-14 md:w-20 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
+                    class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
                     <p class="text-lg">VMware</p>

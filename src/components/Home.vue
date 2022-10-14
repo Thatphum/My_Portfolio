@@ -6,17 +6,21 @@
     <div class="inner-header flex">
       <!-- start -->
       <div
-        class="flex flex-col flex-col-reverse md:flex-row m-auto place-items-center place-content-center pt-20 "
+        class="flex flex-col flex-col-reverse md:flex-row m-auto place-items-center place-content-center pt-20"
       >
-        <div class="py-2 text-center md:text-left w-2/3 md:w-1/3 md:pr-14">
-          <h2 class="text-3xl md:text-6xl font-bold">Hi, I'm Thatphum</h2>
+        <div
+          class="py-2 text-center md:text-left w-2/3 md:w-2/5 lg:w-1/3 md:pr-14"
+        >
+          <h2 class="text-3xl md:text-4xl lg:text-6xl font-bold">
+            Hi, I'm Thatphum
+          </h2>
           <!-- <h2 class="text-3xl md:text-6xl font-bold">
             Thatphum Kongnithichalerm
           </h2> -->
-          <h2 class="text-white text-4xl pt-2 font-bold">
+          <h2 class="text-white text-2xl lg:text-4xl pt-2 font-bold">
             Full Stack Developer
           </h2>
-          <p class="text-lg text-cyan-300 pt-2 font-bold">
+          <p class="text-md lg:text-lg text-cyan-300 pt-2 font-bold">
             However difficult life may seem, there is always something you can
             do and succeed at. - Theory of Everything
           </p>
@@ -38,7 +42,7 @@
         <img
           src="../assets/imgs/Profile-01.png"
           alt="ModExchange"
-          class="w-4/5 md:w-1/3 rounded-lg"
+          class="w-4/5 md:w-2/5 lg:w-1/3 rounded-lg"
         />
       </div>
       <!-- end -->

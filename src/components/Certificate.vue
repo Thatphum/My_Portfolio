@@ -8,7 +8,7 @@
           <h1 class="text-5xl md:text-6xl text-color-main">Certificate</h1>
         </div>
       </div>
-      <div class="columns-1 md:columns-3 text-center">
+      <div class="columns-1 md:columns-2 lg:columns-3 text-center">
         <!-- Column -->
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
