@@ -115,7 +115,9 @@
               which makes me like writing from business logic the most.
             </p>
             <span class="text-lg text-color-main">Languages :</span>
-            <div class="flex flex-col flex-wrap place-content-center pt-2">
+            <div
+              class="flex flex-col flex-wrap place-content-center pt-2 md:pt-4"
+            >
               <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
                 <img
                   src="../assets/icons/icons8-python-240.png"
@@ -151,7 +153,9 @@
               table (Table) to match the job as accurately as possible.
             </p>
             <span class="text-lg text-color-main">Languages :</span>
-            <div class="flex flex-col flex-wrap place-content-center pt-2">
+            <div
+              class="flex flex-col flex-wrap place-content-center pt-0 md:pt-2"
+            >
               <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
                 <img
                   src="../assets/icons/icons8-my-sql-240.png"
