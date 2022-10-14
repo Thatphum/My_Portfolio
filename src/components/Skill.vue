@@ -104,7 +104,9 @@
               </div>
             </div>
           </div>
-          <div class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25">
+          <div
+            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
+          >
             <h1 class="text-3xl">Backend Developer</h1>
             <p
               class="py-2 w-5/6 flex mx-auto font-mono text-center break-words"
@@ -138,7 +140,9 @@
               </div>
             </div>
           </div>
-          <div class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25">
+          <div
+            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
+          >
             <h1 class="text-3xl">Database</h1>
             <p
               class="py-2 w-5/6 flex mx-auto font-mono text-center break-words"
@@ -172,7 +176,7 @@
               </div>
             </div>
           </div>
-          <div class="px-4 py-6">
+          <div class="px-4 py-6 border-t-2 md:border-t-0">
             <h1 class="text-3xl">Devops Developer</h1>
             <p class="py-2 font-mono">
               Good knowledge of infra deploying and writing docker in
@@ -194,7 +198,7 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 md:col-span-3 border-r-0 md:border-r-4 border-slate-400/25 border-t-0 md:border-t-4"
+            class="px-4 py-6 col-span-1 md:col-span-3 border-slate-400/25 border-t-2 md:border-t-4"
           >
             <h1 class="text-3xl">Technical Skills</h1>
             <div class="flex flex-wrap place-content-center pt-2">
@@ -212,7 +216,7 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 md:col-span-3 border-t-0 md:border-t-4 border-slate-400/25"
+            class="px-4 py-6 col-span-1 md:col-span-3 border-t-2 md:border-t-4 border-slate-400/25"
           >
             <h1 class="text-3xl">Application Skill</h1>
             <div class="flex flex-wrap place-content-center pt-2">
