@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="container my-12 mx-auto px-4 md:px-12 pt-20" id="certificate">
+  <div class="my-12 mx-auto px-4 md:px-12 pt-20" id="certificate">
     <div>
       <div class="flex justify-center font mb-10">
         <div class="text-center">
