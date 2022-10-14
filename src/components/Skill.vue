@@ -105,7 +105,7 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0 col-span-2 md:col-span-1"
+            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0 col-span-2 md:col-span-1"
           >
             <h1 class="text-3xl md:text-2xl lg:text-3xl">Backend Developer</h1>
             <p
@@ -141,7 +141,7 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 col-span-1 border-r-0 lg:border-r-4 border-slate-400/25 border-t-2 md:border-t-0 col-span-2 md:col-span-1"
+            class="px-4 py-6 border-r-0 lg:border-r-4 border-slate-400/25 border-t-2 md:border-t-0 col-span-2 md:col-span-1"
           >
             <h1 class="text-3xl md:text-2xl lg:text-3xl">Database</h1>
             <p class="py-2 flex mx-auto font-mono text-center break-words">
