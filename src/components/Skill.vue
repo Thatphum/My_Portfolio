@@ -256,7 +256,7 @@
                     class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
-                    <p class="text-lg">Visual Studio</p>
+                    <p class="text-lg text-center">Visual Studio</p>
                   </div>
                 </div>
 
@@ -277,7 +277,7 @@
                     class="w-14 md:w-18 h-auto transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                   />
                   <div>
-                    <p class="text-lg">Mysql Workbench</p>
+                    <p class="text-lg text-center">Mysql Workbench</p>
                   </div>
                 </div>
                 <div class="grid grid-cols-1 place-items-center px-4 py-2">
