@@ -66,7 +66,7 @@
                 />
                 <div>
                   <p class="text-lg">bootstrap :</p>
-                  <span class="font-mono text-md">Beginer</span>
+                  <span class="font-mono text-md">Beginner</span>
                 </div>
               </div>
               <div class="grid grid-cols-1 place-items-center px-4 py-2">
@@ -88,7 +88,7 @@
                 />
                 <div>
                   <p class="text-lg">React :</p>
-                  <span class="font-mono text-md">Beginer</span>
+                  <span class="font-mono text-md">Beginner</span>
                 </div>
               </div>
               <div class="grid grid-cols-1 place-items-center px-4 py-2">
@@ -124,7 +124,7 @@
                 />
                 <div>
                   <p class="text-lg">Python :</p>
-                  <span class="font-mono text-md">Beginer</span>
+                  <span class="font-mono text-md">Beginner</span>
                 </div>
               </div>
               <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
@@ -171,7 +171,7 @@
                 />
                 <div>
                   <p class="text-lg">MongoDB :</p>
-                  <span class="font-mono text-md">Beginer</span>
+                  <span class="font-mono text-md">Beginner</span>
                 </div>
               </div>
             </div>
@@ -192,7 +192,9 @@
                 />
                 <div>
                   <p class="text-lg">Docker :</p>
-                  <span class="font-mono text-md">Beginer to Intermediate</span>
+                  <span class="font-mono text-md"
+                    >Beginner to Intermediate</span
+                  >
                 </div>
               </div>
             </div>
@@ -205,7 +207,7 @@
               <div
                 class="flex flex-col flex-wrap place-content-center pt-2 text-left font-mono"
               >
-                <div>- Screm and Agile</div>
+                <div>- Scrum and Agile</div>
                 <div>- Version Control by Git</div>
                 <div>
                   - Manage Containers Technology of docker with docker-compose
