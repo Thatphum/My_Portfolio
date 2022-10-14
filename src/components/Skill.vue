@@ -105,7 +105,7 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
+            class="px-4 py-6 col-span-1 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
           >
             <h1 class="text-3xl">Backend Developer</h1>
             <p
@@ -115,10 +115,8 @@
               which makes me like writing from business logic the most.
             </p>
             <span class="text-lg text-color-main">Languages :</span>
-            <div
-              class="flex flex-col flex-wrap place-content-center pt-2 md:pt-4"
-            >
-              <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
+            <div class="flex flex-col flex-wrap place-content-center pt-4">
+              <div class="flex flex-col place-items-center">
                 <img
                   src="../assets/icons/icons8-python-240.png"
                   alt="python"
@@ -129,7 +127,7 @@
                   <span class="font-mono text-md">Beginner</span>
                 </div>
               </div>
-              <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
+              <div class="flex flex-col place-items-center">
                 <img
                   src="../assets/icons/icons8-java-240.png"
                   alt="java"
@@ -143,7 +141,7 @@
             </div>
           </div>
           <div
-            class="px-4 py-6 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
+            class="px-4 py-6 col-span-1 border-r-0 md:border-r-4 border-slate-400/25 border-t-2 md:border-t-0"
           >
             <h1 class="text-3xl">Database</h1>
             <p
@@ -156,7 +154,7 @@
             <div
               class="flex flex-col flex-wrap place-content-center pt-0 md:pt-2"
             >
-              <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
+              <div class="grid grid-cols-1 place-items-center">
                 <img
                   src="../assets/icons/icons8-my-sql-240.png"
                   alt="mysql"
@@ -167,7 +165,7 @@
                   <span class="font-mono text-md">Intermediate</span>
                 </div>
               </div>
-              <div class="grid grid-cols-1 md:grid-cols-2 place-items-center">
+              <div class="grid grid-cols-1 place-items-center">
                 <img
                   src="../assets/icons/icons8-mongodb-240.png"
                   alt="mongodb"
