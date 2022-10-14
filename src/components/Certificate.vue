@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="my-12 mx-auto px-4 md:px-12 pt-20" id="certificate">
+  <div class="container my-12 mx-auto px-4 md:px-12 pt-20" id="certificate">
     <div>
       <div class="flex justify-center font mb-10">
         <div class="text-center">
@@ -72,26 +72,28 @@
         <div class="my-1 w-3/4 md:w-full mx-auto pt-6 md:pt-4">
           <!-- Article -->
           <article class="overflow-hidden rounded-lg shadow-lg">
-            <a
-              href="https://drive.google.com/file/d/1lurCsU8Kj9LptRmBGovLODV-jju9ak4V/view?usp=sharing"
-              target="_blank"
-            >
-              <img
-                alt="Placeholder"
-                class="block h-auto w-full"
-                src="../assets/Certificate/Arts2018.jpg"
-              />
-            </a>
+            <div>
+              <a
+                href="https://drive.google.com/file/d/1lurCsU8Kj9LptRmBGovLODV-jju9ak4V/view?usp=sharing"
+                target="_blank"
+              >
+                <img
+                  alt="Placeholder"
+                  class="block h-auto w-full"
+                  src="../assets/Certificate/Arts2018.jpg"
+                />
+              </a>
 
-            <div class="p-4 block">
-              <h3 class="mb-2 text-xl">
-                Student Arts and Crafts Competition, Year 2018
-              </h3>
-              <div class="mb-2 text-grey-darker text-sm flex-1">
-                <p>
-                  Received a gold medal from a middle-level robot competition
-                  activity.
-                </p>
+              <div class="p-4">
+                <h3 class="mb-2 text-xl">
+                  Student Arts and Crafts Competition, Year 2018
+                </h3>
+                <div class="mb-2 text-grey-darker text-sm flex-1">
+                  <p>
+                    Received a gold medal from a middle-level robot competition
+                    activity.
+                  </p>
+                </div>
               </div>
             </div>
           </article>
@@ -112,19 +114,18 @@
                 class="block h-auto w-full"
                 src="../assets/Certificate/Arts2018_Region-level.jpg"
               />
-            </a>
-
-            <div class="p-4">
-              <h3 class="mb-2 text-xl">
-                Student Arts and Crafts Competition, Year 2018
-              </h3>
-              <div class="mb-2 text-grey-darker text-sm flex-1">
-                <p>
-                  Received a gold medal from a high-level robot competition
-                  activity.
-                </p>
+              <div class="p-4">
+                <h3 class="mb-2 text-xl">
+                  Student Arts and Crafts Competition, Year 2018
+                </h3>
+                <div class="mb-2 text-grey-darker text-sm flex-1">
+                  <p>
+                    Received a gold medal from a high-level robot competition
+                    activity.
+                  </p>
+                </div>
               </div>
-            </div>
+            </a>
           </article>
           <!-- END Article -->
         </div>
