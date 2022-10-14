@@ -154,7 +154,7 @@
             <div
               class="flex flex-col flex-wrap place-content-center pt-0 md:pt-2"
             >
-              <div class="grid grid-cols-1 place-items-center">
+              <div class="flex flex-col place-items-center">
                 <img
                   src="../assets/icons/icons8-my-sql-240.png"
                   alt="mysql"
@@ -165,7 +165,7 @@
                   <span class="font-mono text-md">Intermediate</span>
                 </div>
               </div>
-              <div class="grid grid-cols-1 place-items-center">
+              <div class="flex flex-col place-items-center">
                 <img
                   src="../assets/icons/icons8-mongodb-240.png"
                   alt="mongodb"
@@ -227,7 +227,7 @@
               <div
                 class="flex flex-col md:flex-row flex-wrap place-content-center pt-2 text-left font-mono"
               >
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/Apache_NetBeans_Logo.png"
                     alt="netBeans"
@@ -237,7 +237,7 @@
                     <p class="text-lg">Netbeans</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/icons8-intellij-idea-240.png"
                     alt="intellij"
@@ -247,7 +247,7 @@
                     <p class="text-lg">Intellij</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/postman-icon.png"
                     alt="postman"
@@ -257,7 +257,7 @@
                     <p class="text-lg">Postman</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/Vscode_icon_130084.png"
                     alt="vscode"
@@ -268,7 +268,7 @@
                   </div>
                 </div>
 
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/PuTTY_icon_128px.png"
                     alt="putty"
@@ -278,7 +278,7 @@
                     <p class="text-lg">Putty</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/mysqlworkbench_93532.png"
                     alt="workbench"
@@ -288,7 +288,7 @@
                     <p class="text-lg text-center">Mysql Workbench</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/Trello_icon-icons.com_66775.png"
                     alt="trello"
@@ -298,7 +298,7 @@
                     <p class="text-lg">Trello</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/clickup.png"
                     alt="clickup"
@@ -308,7 +308,7 @@
                     <p class="text-lg">Click up</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/mongodb.png"
                     alt="mongodb"
@@ -318,7 +318,7 @@
                     <p class="text-lg">MongoDB</p>
                   </div>
                 </div>
-                <div class="grid grid-cols-1 place-items-center px-4 py-2">
+                <div class="flex flex-col place-items-center px-4 py-2">
                   <img
                     src="../assets/icons/Application_Skill/icons8-old-vmware-logo-240.png"
                     alt="vmware"
