@@ -19,12 +19,12 @@
             >
               <img
                 alt="Placeholder"
-                class="block h-auto w-full bg-repeat"
+                class="h-auto w-full bg-repeat"
                 src="../assets/Certificate/Arts2019.jpg"
               />
             </a>
 
-            <div class="p-4">
+            <div class="p-4 block">
               <h3 class="mb-2 text-xl">
                 Student Arts and Crafts Competition 2019 National Level
               </h3>
@@ -83,7 +83,7 @@
               />
             </a>
 
-            <div class="p-4">
+            <div class="p-4 block">
               <h3 class="mb-2 text-xl">
                 Student Arts and Crafts Competition, Year 2018
               </h3>
