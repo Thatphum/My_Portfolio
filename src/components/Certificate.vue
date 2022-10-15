@@ -8,7 +8,9 @@
           <h1 class="text-5xl md:text-6xl text-color-main">Certificate</h1>
         </div>
       </div>
-      <div class="columns-1 md:columns-2 lg:columns-3 text-center">
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 place-items-center text-center"
+      >
         <!-- Column -->
         <div class="my-1 w-3/4 md:w-full mx-auto">
           <!-- Article -->
@@ -86,7 +88,7 @@
 
               <div class="p-4">
                 <h3 class="mb-2 text-xl">
-                  Student Arts and Crafts Competition, Year 2018
+                  Student Arts and Crafts Competition, Year 2018 National Level
                 </h3>
                 <div class="mb-2 text-grey-darker text-sm flex-1">
                   <p>
