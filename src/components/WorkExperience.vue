@@ -62,8 +62,7 @@
         <p class="text-md font-light pt-2">
           This web application is about a Card game, and I am responsible for
           creating the logic of a game. This website is developed by the Vue
-          framework and JSON server. This is a good development tool. As part of
-          the INT 203 course.
+          framework and JSON server. This is a good development tool.
         </p>
         <!-- <div class="pt-8">
           <a
