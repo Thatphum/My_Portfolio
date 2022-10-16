@@ -21,27 +21,22 @@
       <div
         class="py-2 text-center md:text-left w-2/3 md:w-1/2 lg:w-1/4 md:pl-14"
       >
-        <h2 class="text-2xl font-bold">
-          Online Appointment Scheduling System for Integrated Project Clinics
-          (OASIP)
+        <h2 class="text-2xl font-bold">2022</h2>
+        <h2 class="text-xl font-bold">
+          INT 222 | Online Appointment Scheduling System for Integrated Project
+          Clinics (OASIP)
         </h2>
         <p class="text-md font-light pt-2">
-          This web application is about online application and my responsible is
-          full-stack develop. both designing web, all parts of Backend using
-          java and Spring framework, Frontend create from WireFrame and do CRUD
-          by using Vuejs and Tailwind, Databases do about the design of
-          relational databases, DevOps make deploy to product server with Docker
-          (Docker-compose) and work with agile and scrum. As part of the INT 221
-          and INT 222 courses.
-
-          <!-- This web application is about the online application and my
-          responsible is full-stack develop , frontend by using Vue and Tailwind
-          ,backend by using java spring boot create endpoint and make
-          authentication and authorization , database about design a relation
-          database and DevOps using docker 
-           by using for creating and developing
-          this website in full stack development.As part of the INT 221 and INT
-          222 course. -->
+          web application for Online Appointment and my responsible is
+          full-stack develop.
+          <br />
+          - Frontend do CRUD by using Vuejs and Tailwind,
+          <br />
+          - Backend using java and Spring framework
+          <br />
+          - Databases do about the design of relational databases
+          <br />
+          - DevOps make deploy to product server with Docker
         </p>
         <div class="pt-8">
           <a
@@ -51,7 +46,6 @@
           >
             &lt;&lt; See More
           </a>
-          <!-- <a href="">read more.</a> -->
         </div>
       </div>
     </div>
@@ -63,14 +57,15 @@
       <div
         class="py-2 text-center md:text-right w-2/3 md:w-1/2 lg:w-1/4 md:pr-14"
       >
-        <h2 class="text-2xl font-bold">Kashino125</h2>
+        <h2 class="text-2xl font-bold">2021</h2>
+        <h2 class="text-xl font-bold">INT 203 | Kashino125</h2>
         <p class="text-md font-light pt-2">
-          This web application is about a pokdeng game, and I am responsible for
+          This web application is about a Card game, and I am responsible for
           creating the logic of a game. This website is developed by the Vue
           framework and JSON server. This is a good development tool. As part of
           the INT 203 course.
         </p>
-        <div class="pt-8">
+        <!-- <div class="pt-8">
           <a
             href="https://kashino-125.netlify.app/"
             target="_blank"
@@ -78,8 +73,7 @@
           >
             See More &gt;&gt;
           </a>
-          <!-- <a href="">read more.</a> -->
-        </div>
+        </div> -->
       </div>
       <img
         src="../assets/Work/Kashino.png"
@@ -100,12 +94,14 @@
       <div
         class="py-2 text-center md:text-left w-2/3 md:w-1/2 lg:w-1/4 md:pl-14"
       >
-        <h2 class="text-2xl font-bold">ModExchange</h2>
+        <h2 class="text-2xl font-bold">2021</h2>
+        <h2 class="text-xl font-bold">INT 203 | ModExchange</h2>
         <p class="text-md font-light pt-2">
-          This web application is about currency exchange rates.my responsible
-          is structuring the website , keeping the overview of the web in the
-          right direction and Design the website by using Vue daisyui and
-          tailwind. As part of the INT 203 course.
+          Web application is about currency exchange rates.my responsible is
+          structuring the website , keeping the overview of the web in the right
+          direction and Design the website by using
+          <br />
+          - VueJs and Daisyui (Tailwind CSS plugin)
         </p>
         <div class="pt-8">
           <a
@@ -128,10 +124,11 @@
       <div
         class="py-2 text-center md:text-right w-2/3 md:w-1/2 lg:w-1/4 md:pr-14"
       >
-        <h2 class="text-2xl font-bold">Emergency Core</h2>
+        <h2 class="text-2xl font-bold">2020</h2>
+        <h2 class="text-xl font-bold">Emergency Core</h2>
         <p class="text-md font-light pt-2">
-          Design wireframe about emergency call application by using figma to
-          implement the design.
+          Design a prototype about emergency call application by using figma to
+          implement the design prototype.
         </p>
         <div class="pt-8">
           <a

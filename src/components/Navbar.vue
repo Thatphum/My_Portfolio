@@ -38,7 +38,7 @@ function scrollFunction() {
     >
       <div>
         <a href="#">
-          <div class="logo text-3xl shadow-solid-primary text4 pl-6 md:w-full">
+          <div class="logo text-5xl shadow-solid-primary text4 pl-6 md:w-full">
             Portfolio
           </div>
         </a>
@@ -155,10 +155,10 @@ function scrollFunction() {
 </template>
 
 <style scoped>
-@import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@700&display=swap');
 
 .logo {
-  font-family: 'Rammetto One', cursive;
+  font-family: 'Kanit', sans-serif;
 }
 
 .text4 {

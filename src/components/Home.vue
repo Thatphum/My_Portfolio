@@ -21,8 +21,7 @@
             Full Stack Developer
           </h2>
           <p class="text-md lg:text-lg text-cyan-300 pt-2 font-bold">
-            However difficult life may seem, there is always something you can
-            do and succeed at. - Theory of Everything
+            Work harder than you did yesterday.
           </p>
           <div class="pt-4">
             <a

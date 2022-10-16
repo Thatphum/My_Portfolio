@@ -32,7 +32,7 @@
 
             <p class="pl-2 hidden lg:block">Phone : 093-054-4488</p>
           </a>
-          <a
+          <!-- <a
             class="flex ease-in duration-200 hover:text-gray-400"
             href="https://goo.gl/maps/LBc1ARo238irYQhN9"
             target="_blank"
@@ -51,7 +51,7 @@
             </svg>
 
             <p class="pl-2 hidden lg:block">Address</p>
-          </a>
+          </a> -->
           <a
             class="flex ease-in duration-200 hover:text-gray-400"
             href="mailto:thatphum.pk@gmail.com"
@@ -89,7 +89,7 @@
               />
             </svg>
 
-            <p class="pl-2 hidden lg:block">Github</p>
+            <p class="pl-2 hidden lg:block">ThatphumPK</p>
           </a>
           <a
             class="flex ease-in duration-200 hover:text-gray-400"
@@ -109,7 +109,7 @@
               />
             </svg>
 
-            <p class="pl-2 hidden lg:block">Linkedin</p>
+            <p class="pl-2 hidden lg:block">Thatphum-pk</p>
           </a>
         </ul>
       </div>

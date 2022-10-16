@@ -85,7 +85,7 @@
                   class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                 />
                 <div>
-                  <p class="text-lg">React :</p>
+                  <p class="text-lg">ReactJs :</p>
                   <span class="font-mono text-md">Beginner</span>
                 </div>
               </div>
@@ -96,7 +96,7 @@
                   class="w-14 h-14 md:w-20 md:h-20 transition ease-in-out hover:-translate-y-1 hover:scale-110 duration-300"
                 />
                 <div>
-                  <p class="text-lg">Vue :</p>
+                  <p class="text-lg">VueJs :</p>
                   <span class="font-mono text-md">Intermediate</span>
                 </div>
               </div>
