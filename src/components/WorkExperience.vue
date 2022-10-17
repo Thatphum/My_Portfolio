@@ -62,7 +62,7 @@
         <p class="text-md font-light pt-2">
           This web application is about a Card game, and I am responsible for
           creating the logic of a game. This website is developed by <br />
-          - Vue framework , JSON server.
+          - VueJs , Daisyui (Tailwind CSS plugin) and JSON server.
         </p>
         <!-- <div class="pt-8">
           <a
