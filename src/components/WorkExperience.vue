@@ -28,7 +28,7 @@
         </h2>
         <p class="text-md font-light pt-2">
           web application for Online Appointment and my responsible is
-          full-stack develop.
+          Full-stack develop.
           <br />
           - Frontend do CRUD by using Vuejs and Tailwind,
           <br />
