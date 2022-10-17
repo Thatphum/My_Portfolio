@@ -61,8 +61,8 @@
         <h2 class="text-xl font-bold">INT 203 | Kashino125</h2>
         <p class="text-md font-light pt-2">
           This web application is about a Card game, and I am responsible for
-          creating the logic of a game. This website is developed by the Vue
-          framework and JSON server. This is a good development tool.
+          creating the logic of a game. This website is developed by <br />
+          - Vue framework , JSON server.
         </p>
         <!-- <div class="pt-8">
           <a
